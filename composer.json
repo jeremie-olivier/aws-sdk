@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "2.*",
+   "irestful/strings": "13.11.28"
+	 }
+}
